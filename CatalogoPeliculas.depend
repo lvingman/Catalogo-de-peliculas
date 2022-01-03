@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1632930545 source:c:\users\yo\documents\facultad\cuatrimestre 2\programacion 2\proyectos personales\catalogopeliculas\main.cpp
+	<iostream>
+	"Peliculas.h"
+	"Directores.h"
+	"Funciones.h"
+	"Fecha.h"
+
+1632930516 source:c:\users\yo\documents\facultad\cuatrimestre 2\programacion 2\proyectos personales\catalogopeliculas\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	"Funciones.h"
+	"Peliculas.h"
+	"Fecha.h"
+
+1632929031 c:\users\yo\documents\facultad\cuatrimestre 2\programacion 2\proyectos personales\catalogopeliculas\funciones.h
+	"Peliculas.h"
+
+1632892176 source:c:\users\yo\documents\facultad\cuatrimestre 2\programacion 2\proyectos personales\catalogopeliculas\directores.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Directores.h"
+	"Funciones.h"
+
+1632892176 c:\users\yo\documents\facultad\cuatrimestre 2\programacion 2\proyectos personales\catalogopeliculas\directores.h
+	"Funciones.h"
+
+1632930434 c:\users\yo\documents\facultad\cuatrimestre 2\programacion 2\proyectos personales\catalogopeliculas\peliculas.h
+	"Fecha.h"
+
+1632930434 c:\users\yo\documents\facultad\cuatrimestre 2\programacion 2\proyectos personales\catalogopeliculas\fecha.h
+
+1632930471 source:c:\users\yo\documents\facultad\cuatrimestre 2\programacion 2\proyectos personales\catalogopeliculas\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	"Fecha.h"
+
+1632932454 source:c:\users\yo\documents\facultad\cuatrimestre 2\programacion 2\proyectos personales\catalogopeliculas\peliculas.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Peliculas.h"
+	"Funciones.h"
+	"Fecha.h"
+
+1632892176 source:f:\users\yo\documents\facultad\cuatrimestre 2\programacion 2\proyectos personales\catalogopeliculas\directores.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Directores.h"
+	"Funciones.h"
+
+1632892176 f:\users\yo\documents\facultad\cuatrimestre 2\programacion 2\proyectos personales\catalogopeliculas\directores.h
+	"Funciones.h"
+
+1641088538 f:\users\yo\documents\facultad\cuatrimestre 2\programacion 2\proyectos personales\catalogopeliculas\funciones.h
+	"Peliculas.h"
+
+1641092388 f:\users\yo\documents\facultad\cuatrimestre 2\programacion 2\proyectos personales\catalogopeliculas\peliculas.h
+	"Fecha.h"
+
+1632930434 f:\users\yo\documents\facultad\cuatrimestre 2\programacion 2\proyectos personales\catalogopeliculas\fecha.h
+
+1632930471 source:f:\users\yo\documents\facultad\cuatrimestre 2\programacion 2\proyectos personales\catalogopeliculas\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	"Fecha.h"
+
+1641222944 source:f:\users\yo\documents\facultad\cuatrimestre 2\programacion 2\proyectos personales\catalogopeliculas\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	"Funciones.h"
+	"Peliculas.h"
+	"Fecha.h"
+	"rlutil.h"
+
+1641222627 source:f:\users\yo\documents\facultad\cuatrimestre 2\programacion 2\proyectos personales\catalogopeliculas\main.cpp
+	<iostream>
+	"Peliculas.h"
+	"Directores.h"
+	"Funciones.h"
+	"Fecha.h"
+
+1641092388 source:f:\users\yo\documents\facultad\cuatrimestre 2\programacion 2\proyectos personales\catalogopeliculas\peliculas.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Peliculas.h"
+	"Funciones.h"
+	"Fecha.h"
+
+1638454254 f:\users\yo\documents\facultad\cuatrimestre 2\programacion 2\proyectos personales\catalogopeliculas\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
